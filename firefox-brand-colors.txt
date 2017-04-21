@@ -1,0 +1,13 @@
+dark-blue: #002147;
+light-blue: #0095DD;
+default-blue: #00539F;
+yellow: #FFCB00;
+orange-light: #FF9500;
+orange: #E66000;
+orange-dark: #BB2200;
+gray-light: #D4DDE4;
+gray-dark: #6A7B86;
+red-light: #EA3B28;
+red-dark: #C13832;
+sand: #D7D3C8;
+charcoal: #4D4E53;
